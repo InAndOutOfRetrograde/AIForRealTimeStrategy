@@ -1,0 +1,9 @@
+﻿1>------ Build started: Project: ForceUnityToReleaseDLL, Configuration: Debug Any CPU ------
+1>  ForceUnityToReleaseDLL -> C:\Users\Drrac\Desktop\SchoolProjects\PythonAI\RTS\GDD3400_RTS\UnityRTS\RTS\Assets\ForceUnityToReleaseDLL.dll
+2>------ Build started: Project: PlanningAgent, Configuration: Debug Any CPU ------
+2>C:\Users\Drrac\Desktop\SchoolProjects\PythonAI\RTS\GDD3400_RTS\UnityRTS\PlanningAgent\PlanningAgent.cs(8,1,8,2): warning CS1587: XML comment is not placed on a valid language element
+2>CSC : warning CS8002: Referenced assembly 'GameManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' does not have a strong name.
+2>CSC : warning CS8002: Referenced assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' does not have a strong name.
+2>  PlanningAgent -> C:\Users\Drrac\Desktop\SchoolProjects\PythonAI\RTS\GDD3400_RTS\UnityRTS\PlanningAgent\bin\Debug\PlanningAgent.dll
+2>          1 file(s) copied.
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
